@@ -89,4 +89,3 @@ ke = 0.15/h, V/F = 30 L** (so CL/F = 4.5 L/h), and an Emax PD relationship with
 - For extravascular data F and V are confounded, so only the apparent V/F and
   CL/F are identifiable.
 
-  ![CI](https://github.com/orlacchioresearch/pharmacokinetics-pkpd-toolkit/actions/workflows/tests.yml/badge.svg)
